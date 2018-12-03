@@ -1,0 +1,3 @@
+SETTING = 1
+HALLO = 3
+TEST = Testing
